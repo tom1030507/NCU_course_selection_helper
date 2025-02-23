@@ -8,8 +8,9 @@
 5. 根據各個課堂上的分發機率和累積人數，排課程的志願序 EX：已知A堂課**小概率**只有在第1志願才會上，就不用把第2志願的名額給A堂課，可以給有可能在第2志願上的B堂課
 
 ### 在 Colab 上運行
-你可以點擊以下連結在 Google Colab 上運行此程式：
-[![在 Colab 上運行](https://colab.research.google.com/drive/1E4IiG9wwUMo12SIjk2F-tMmoeT9fPijK?usp=sharing)
+<a target="_blank" href="https://colab.research.google.com/github/tom1030507/NCU_course_selection_helper/blob/main/ncu_course_selection_helper.ipynb">
+  <img src="https://colab.research.google.com/assets/colab-badge.svg" alt="Open In Colab"/>
+</a>
 
 ## 分發順序
 興趣選項課程分發規則如下：
